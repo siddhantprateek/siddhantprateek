@@ -1,8 +1,8 @@
 - # 👋 Hi, I’m Siddhant Prateek Mahanayak
-- 👀 I’m interested in ...
+- 👀 I’m currently freshman studying at KIIT 
 - 🌱 I’m currently learning python, Django, Flask, machine learning, HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate 
+- 📫 How to reach me https://www.linkedin.com/in/siddhantprateek/
 
 <!---
 siddhantprateek/siddhantprateek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
