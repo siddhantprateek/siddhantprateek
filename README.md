@@ -2,7 +2,7 @@
 - 👀 I’m currently freshman studying at KIIT 
 - 🌱 I’m currently learning python, Django, Flask, machine learning, HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate 
-- 📫 How to reach me https://www.linkedin.com/in/siddhantprateek/
+- 📫 How to reach me 
 
 <!---
 siddhantprateek/siddhantprateek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
