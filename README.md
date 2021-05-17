@@ -1,6 +1,6 @@
 - # 👋 Hi, I’m Siddhant Prateek Mahanayak
 - 👀 I’m currently freshman studying at KIIT 
-- 🌱 I’m currently learning python, Django, Flask, machine learning, HTML, CSS, Javascript
+- 🌱 I’m currently learning Django, machine learning, Javascript, Golang
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/siddhantprateek/) [Twitter](https://twitter.com/siddhantprateek)
 <!---
