@@ -1,3 +1,4 @@
+![Group 6 copy](https://user-images.githubusercontent.com/43869046/119824451-8ca77280-bf13-11eb-949c-ae0223456502.png)
 - # 👋 Hi, I’m Siddhant Prateek Mahanayak
 - 🌱 I’m currently learning Django, machine learning, Javascript, Golang
 - 💞️ I’m looking to collaborate 
