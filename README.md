@@ -1,4 +1,4 @@
-![Group as6 copy](https://user-images.githubusercontent.com/43869046/120031032-d6788180-c015-11eb-822c-bf3ff9c32a16.png)
+![Group 6 coxpy](https://user-images.githubusercontent.com/43869046/120031243-2e16ed00-c016-11eb-9c48-ac78d62e63bf.png)
 <p align="center">
    👋 Hi, I’m Siddhant Prateek Mahanayak <br>
    🌱 I’m currently learning Django, machine learning, Javascript, Golang<br>
