@@ -1,7 +1,6 @@
 ![Group 6 coxpy](https://user-images.githubusercontent.com/43869046/120031243-2e16ed00-c016-11eb-9c48-ac78d62e63bf.png)
 <p align="center">
    👋 Hi, I’m Siddhant Prateek Mahanayak <br>
-   🌱 I’m currently learning Django, machine learning, Javascript, Golang<br>
    💞️ I’m looking to collaborate <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/siddhantprateek/">
@@ -61,7 +60,9 @@ height="48" style="vertical-align:top; margin:4px"/>
 	<img src="https://img.icons8.com/plasticine/100/000000/bash.png"
 	height="46" style="vertical-align:top; margin:4px"/>
 </p>
-## 🌱 I’m currently learning
+<p align="center">
+ 🌱 I’m currently learning
+</p>
 <p align="center">
 	<img src="https://img.icons8.com/color/100/000000/typescript.png"
 	height="40" style="vertical-align:top; margin:4px"/>
