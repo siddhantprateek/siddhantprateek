@@ -36,32 +36,6 @@ height="48" style="vertical-align:top; margin:4px"/>
 📫 How to reach me <img src="https://img.icons8.com/color/48/000000/hand-up.png" height="30" style="vertical-align:top; margin:4px"/>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/siddhantprateek/">
-<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a>
-<a href="https://twitter.com/siddhantprateek">
-<img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"
- height="48" style="vertical-align:top; margin:4px"/>
-</a>
-<a>
-<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
-</a>
-<a>
-<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v2.png"
-height="48" style="vertical-align:top; margin:4px"/>
-</a>
-<a>
-<img src="https://img.icons8.com/color/48/000000/devpost.png"/>
-</a>
-<a href="https://dev.to/siddhantprateek">
-<img src="https://img.icons8.com/windows/64/000000/dev.png"
-height="48" style="vertical-align:top; margin:4px"/>
-</a>
-<a>
-<img src="https://img.icons8.com/color/48/000000/behance.png"/>
-</a>
-</p>
-<p align="center">
   <img src="https://img.icons8.com/color/48/000000/sass.png"
   alt="sass" height="40" style="vertical-align:top; margin:4px"/>
   <img src="https://img.icons8.com/color/48/000000/golang.png"
@@ -82,7 +56,7 @@ height="48" style="vertical-align:top; margin:4px"/>
 	height="40" style="vertical-align:top; margin:4px"/>
 	<img src="https://img.icons8.com/color/48/000000/open-source--v1.png"
 	height="40" style="vertical-align:top; margin:4px"/>
-	<img src="https://img.icons8.com/cute-clipart/64/000000/figma.png"
+	<img src="https://img.icons8.com/fluent/48/000000/figma.png"
 	height="40" style="vertical-align:top; margin:4px"/>
 	<img src="https://img.icons8.com/plasticine/100/000000/bash.png"
 	height="46" style="vertical-align:top; margin:4px"/>
