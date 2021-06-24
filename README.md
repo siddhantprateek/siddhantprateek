@@ -79,14 +79,14 @@ height="48" style="vertical-align:top; margin:4px"/>
   height="40" style="vertical-align:top; margin:4px"/>
 </p>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siddhantprateek&show_icons=true&theme=vue-dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantprateek&theme=vue-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siddhantprateek&show_icons=true&theme=nord" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantprateek&theme=nord" />
 </p>
-<div align="center">
+<!-- <div align="center">
    <a href="https://github.com/siddhantprateek">
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantprateek&theme=vue-dark&hide_langs_below=1" />
    </a>
 </div>
-
+ -->
 
 [![Siddhant Prateek's github activity graph](https://activity-graph.herokuapp.com/graph?username=siddhantprateek&theme=github)](https://github.com/siddhantprateek/github-readme-activity-graph)
