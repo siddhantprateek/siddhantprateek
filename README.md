@@ -87,3 +87,6 @@ height="48" style="vertical-align:top; margin:4px"/>
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantprateek&theme=vue-dark&hide_langs_below=1" />
    </a>
 </div>
+
+
+[![Siddhant Prateek's github activity graph](https://activity-graph.herokuapp.com/graph?username=siddhantprateek&theme=github)](https://github.com/siddhantprateek/github-readme-activity-graph)
