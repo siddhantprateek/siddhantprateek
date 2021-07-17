@@ -1,7 +1,11 @@
+
 ![Group 6 coxpy](https://user-images.githubusercontent.com/43869046/120031243-2e16ed00-c016-11eb-9c48-ac78d62e63bf.png)
 <p align="center">
    👋 Hi, I’m Siddhant Prateek Mahanayak <br>
    💞️ I’m looking to collaborate <br>
+	
+<!-- ![68889-deliverame-app](https://user-images.githubusercontent.com/43869046/126028403-244771ba-f18a-46a9-a557-bafc0d2bd313.gif) -->	
+<img src="https://user-images.githubusercontent.com/43869046/126028403-244771ba-f18a-46a9-a557-bafc0d2bd313.gif" align="left" height="500vh">
 <p align="center">
 <a href="https://www.linkedin.com/in/siddhantprateek/">
 <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -28,6 +32,9 @@ height="48" style="vertical-align:top; margin:4px"/>
 <img src="https://img.icons8.com/color/48/000000/behance.png"/>
 </a>
 </p>
+
+
+
 
 
 <p align="center">
