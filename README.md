@@ -99,3 +99,5 @@ height="48" style="vertical-align:top; margin:4px"/>
  -->
 
 [![Siddhant Prateek's github activity graph](https://activity-graph.herokuapp.com/graph?username=siddhantprateek&theme=github)](https://github.com/siddhantprateek/github-readme-activity-graph)
+
+![](https://komarev.com/ghpvc/?username=siddhantprateek&color=blue)
