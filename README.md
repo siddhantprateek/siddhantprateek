@@ -66,11 +66,9 @@ I'm a open source enthusiast. Love to learn from communities. Believe in power o
 	<img src="https://img.icons8.com/plasticine/100/000000/bash.png"
 	height="46" style="vertical-align:top; margin:4px"/>
 </p>
-<p >
-	
-</p>
+
 <p>
- <h2>🌱 I’m currently learning</h2>
+ <h2>📖 I’m currently learning</h2>
 </p>
 <p>
 	<img src="https://img.icons8.com/color/100/000000/typescript.png"
@@ -87,6 +85,13 @@ I'm a open source enthusiast. Love to learn from communities. Believe in power o
   <img src="https://img.icons8.com/color/48/000000/jenkins.png"
   height="40" style="vertical-align:top; margin:4px"/>
 </p>
+
+
+### My Blogs
+
+- [All About Envoy Proxy](https://siddhantprateek.space/all-about-envoy-proxy)
+- [History of RedHat & Inside RedHat's Open Source Community](https://siddhantprateek.space/history-of-redhat-and-inside-redhats-open-source-community)
+
 
 
 <p align="center">
