@@ -1,47 +1,48 @@
 
 ![Group 6 coxpy](https://user-images.githubusercontent.com/43869046/120031243-2e16ed00-c016-11eb-9c48-ac78d62e63bf.png)
-<p align="center">
-   👋 Hi, I’m Siddhant Prateek Mahanayak <br>
-   💞️ I’m looking to collaborate <br>
-	
+
+<p style="clear:both;">
+<h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>  Hi, I’m Siddhant </h1><img src="https://user-images.githubusercontent.com/43869046/126028403-244771ba-f18a-46a9-a557-bafc0d2bd313.gif" align="left" height="300vh">
+
+I'm a open source enthusiast. Love to learn from communities. Believe in power of community. love to share knowledge what i have learned. Apart from that i'm more into cloud native and DevOps related work. Looking forward to collabrate.
+</p>
+
 <!-- ![68889-deliverame-app](https://user-images.githubusercontent.com/43869046/126028403-244771ba-f18a-46a9-a557-bafc0d2bd313.gif) -->	
-<img src="https://user-images.githubusercontent.com/43869046/126028403-244771ba-f18a-46a9-a557-bafc0d2bd313.gif" align="left" height="500vh">
-<p align="center">
-<a href="https://www.linkedin.com/in/siddhantprateek/">
-<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a>
-<a href="https://twitter.com/siddhantprateek">
-<img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png" 
- height="48" style="vertical-align:top; margin:4px"/>
-</a>
-<a href="https://www.facebook.com/siddhant.prateek.7/">
-<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
-</a>
-<a href="https://medium.com/@siddhantprateek">
-<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v2.png"
-height="48" style="vertical-align:top; margin:4px"/>
-</a>
-<a href="https://devpost.com/siddhantprateek?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
-<img src="https://img.icons8.com/color/48/000000/devpost.png"/>
-</a>
-<a href="https://dev.to/siddhantprateek">
-<img src="https://img.icons8.com/windows/64/000000/dev.png"
-height="48" style="vertical-align:top; margin:4px"/>
-</a>
-<a href="https://www.behance.net/siddhantprateek">
-<img src="https://img.icons8.com/color/48/000000/behance.png"/>
-</a>
+<!-- <img src="https://user-images.githubusercontent.com/43869046/126028403-244771ba-f18a-46a9-a557-bafc0d2bd313.gif" align="left" height="500vh"> -->
+
+<p>
+<h2>📫 How to reach me through<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">
+</p></h2>
+
+<p >
+	<a href="https://www.linkedin.com/in/siddhantprateek/">
+		<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+	</a>
+	<a href="https://twitter.com/siddhantprateek">
+		<img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png" 
+	 height="48" style="vertical-align:top; margin:4px"/>
+	</a>
+	<a href="https://www.facebook.com/siddhant.prateek.7/">
+		<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
+	</a>
+	<a href="https://medium.com/@siddhantprateek">
+		<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v2.png"
+	height="48" style="vertical-align:top; margin:4px"/>
+	</a>
+	<a href="https://devpost.com/siddhantprateek?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+		<img src="https://img.icons8.com/color/48/000000/devpost.png"/>
+	</a>
+	<a href="https://dev.to/siddhantprateek">
+		<img src="https://img.icons8.com/windows/64/000000/dev.png"
+	height="48" style="vertical-align:top; margin:4px"/>
+	</a>
+	<a href="https://www.behance.net/siddhantprateek">
+		<img src="https://img.icons8.com/color/48/000000/behance.png"/>
+	</a>
 </p>
 
-
-
-
-
-<p align="center">
- <img src="https://img.icons8.com/color/48/000000/hand-up.png" height="30" style="vertical-align:top; margin:4px"/>
-📫 How to reach me <img src="https://img.icons8.com/color/48/000000/hand-up.png" height="30" style="vertical-align:top; margin:4px"/>
-</p>
-<p align="center">
+<h2>Languages & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
+<p >
   <img src="https://img.icons8.com/color/48/000000/sass.png"
   alt="sass" height="40" style="vertical-align:top; margin:4px"/>
   <img src="https://img.icons8.com/color/48/000000/golang.png"
@@ -54,8 +55,6 @@ height="48" style="vertical-align:top; margin:4px"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
   <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
-<p align="center">
 	<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
 	height="40" style="vertical-align:top; margin:4px"/>
 	<img src="https://img.icons8.com/color/48/000000/html-5.png"
@@ -67,10 +66,13 @@ height="48" style="vertical-align:top; margin:4px"/>
 	<img src="https://img.icons8.com/plasticine/100/000000/bash.png"
 	height="46" style="vertical-align:top; margin:4px"/>
 </p>
-<p align="center">
- 🌱 I’m currently learning
+<p >
+	
 </p>
-<p align="center">
+<p>
+ <h2>🌱 I’m currently learning</h2>
+</p>
+<p>
 	<img src="https://img.icons8.com/color/100/000000/typescript.png"
 	height="48" style="vertical-align:top; margin:5px"/>
 	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
