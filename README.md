@@ -1,5 +1,4 @@
-
-![Group 6 coxpy](https://user-images.githubusercontent.com/43869046/120031243-2e16ed00-c016-11eb-9c48-ac78d62e63bf.png)
+![](https://i.imgur.com/Ww2nuXA.png)
 
 <p style="clear:both;">
 <h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>  Hi, I’m Siddhant </h1><img src="https://user-images.githubusercontent.com/43869046/126028403-244771ba-f18a-46a9-a557-bafc0d2bd313.gif" align="left" height="300vh">
