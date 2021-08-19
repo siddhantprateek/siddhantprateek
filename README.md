@@ -1,7 +1,7 @@
 ![](https://i.imgur.com/Ww2nuXA.png)
 
 <p style="clear:both;">
-<h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>  Hi, I’m Siddhant </h1><img src="https://user-images.githubusercontent.com/43869046/126028403-244771ba-f18a-46a9-a557-bafc0d2bd313.gif" align="left" height="300vh">
+<h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>  Hi, I’m Siddhant </h1><img src="https://i.imgur.com/MnWH6L8.gif" align="left" height="300vh">
 
 I'm a open source enthusiast. Love to learn from communities. Believe in power of community. love to share knowledge what i have learned. Apart from that i'm more into cloud native and DevOps related work. Looking forward to collabrate.
 </p>
