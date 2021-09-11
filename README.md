@@ -12,7 +12,7 @@ I'm a open source enthusiast. Love to learn from communities. Believe in power o
 <p>
 <h2>📫 How to reach me through<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">
 </p></h2>
-
+<!-- Socials Links and Badges -->
 <p >
 	<a href="https://www.linkedin.com/in/siddhantprateek/">
 		<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -40,15 +40,12 @@ I'm a open source enthusiast. Love to learn from communities. Believe in power o
 	</a>
 </p>
 <br/><br/>
+<!-- Language and Tools -->
 <h2>Languages & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
 <p >
-  <img src="https://img.icons8.com/color/48/000000/sass.png"
-  alt="sass" height="40" style="vertical-align:top; margin:4px"/>
-  <img src="https://img.icons8.com/color/48/000000/golang.png"
-  alt="golang" height="40" style="vertical-align:top; margin:4px"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" 
   alt="c" height="40" style="vertical-align:top; margin:4px"/ >
-  
+	
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Js" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
@@ -56,14 +53,14 @@ I'm a open source enthusiast. Love to learn from communities. Believe in power o
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">	
 	<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
 	height="40" style="vertical-align:top; margin:4px"/>
-	<img src="https://img.icons8.com/color/48/000000/html-5.png"
-	height="40" style="vertical-align:top; margin:4px"/>
 	<img src="https://img.icons8.com/color/48/000000/open-source--v1.png"
-	height="40" style="vertical-align:top; margin:4px"/>
-	<img src="https://img.icons8.com/fluent/48/000000/figma.png"
 	height="40" style="vertical-align:top; margin:4px"/>
 	<img src="https://img.icons8.com/plasticine/100/000000/bash.png"
 	height="46" style="vertical-align:top; margin:4px"/>
+	<img src="https://img.icons8.com/color/96/000000/linux--v1.png"
+	     height="40" style="vertical-align:top; margin:4px"/>
+	<img src="https://img.icons8.com/fluent/48/000000/docker.png"
+  	height="40" style="vertical-align:top; margin:4px"/>
 </p>
 
 <p>
@@ -78,8 +75,6 @@ I'm a open source enthusiast. Love to learn from communities. Believe in power o
   <img src="https://img.icons8.com/color/48/000000/firebase.png"
   height="40" style="vertical-align:top; margin:4px"/>
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png"
-  height="40" style="vertical-align:top; margin:4px"/>
-  <img src="https://img.icons8.com/fluent/48/000000/docker.png"
   height="40" style="vertical-align:top; margin:4px"/>
   <img src="https://img.icons8.com/color/48/000000/jenkins.png"
   height="40" style="vertical-align:top; margin:4px"/>
