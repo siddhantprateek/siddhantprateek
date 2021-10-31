@@ -1,3 +1,7 @@
+
+<!-- View Count -->
+![](https://komarev.com/ghpvc/?username=siddhantprateek&color=blue)
+
 ![](https://i.imgur.com/Ww2nuXA.png)
 
 <p style="clear:both;">
@@ -90,17 +94,24 @@ I'm a open source enthusiast. Love to learn from communities. Believe in power o
 
 
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siddhantprateek&show_icons=true&theme=nord" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantprateek&theme=nord" />
-</p>
+| | |
+| -------- | -------- |
+|<img width="100%" src="https://github-readme-stats.vercel.app/api?username=siddhantprateek&show_icons=true&theme=nord" /> | <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantprateek&theme=nord" /> |
+
+
+---
+
 <!-- <div align="center">
    <a href="https://github.com/siddhantprateek">
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantprateek&theme=vue-dark&hide_langs_below=1" />
    </a>
 </div>
  -->
+<!-- Conritbution Graph -->
+<details>
+  <summary>Contribution Graph</summary>
 
 [![Siddhant Prateek's github activity graph](https://activity-graph.herokuapp.com/graph?username=siddhantprateek&theme=github)](https://github.com/siddhantprateek/github-readme-activity-graph)
+</details>	
+	
 
-![](https://komarev.com/ghpvc/?username=siddhantprateek&color=blue)
