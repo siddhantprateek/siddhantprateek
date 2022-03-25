@@ -1,5 +1,7 @@
 ![banner](https://i.imgur.com/Ww2nuXA.png)
 
+
+
 <p style="clear:both;">
 <h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>  Hi, I’m Siddhant </h1><img src="https://i.imgur.com/MnWH6L8.gif" align="left" height="300vh">
 
@@ -105,3 +107,5 @@ I'm a open source enthusiast. Love to learn from communities. Believe in power o
 
 [![Siddhant Prateek's github activity graph](https://activity-graph.herokuapp.com/graph?username=siddhantprateek&theme=github)](https://github.com/siddhantprateek/github-readme-activity-graph)
 </details>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantprateek&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantprateek" /> </p>
