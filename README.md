@@ -3,7 +3,7 @@
 
 
 <p style="clear:both;">
-<h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>  Hi, I’m Siddhant </h1><img src="https://i.imgur.com/MnWH6L8.gif" align="left" height="300vh">
+<h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"  height="35px"/>  Hi, I’m Siddhant </h1><img src="https://i.imgur.com/MnWH6L8.gif" align="left" height="300vh">
 
 I'm a open source enthusiast. Love to learn from communities. Believe in power of community. Love to share knowledge what I have learned. Apart from that, I'm more into cloud native and DevOps related work. Looking forward to collabrate. 🚀
 </p>
@@ -12,7 +12,7 @@ I'm a open source enthusiast. Love to learn from communities. Believe in power o
 <!-- <img src="https://user-images.githubusercontent.com/43869046/126028403-244771ba-f18a-46a9-a557-bafc0d2bd313.gif" align="left" height="500vh"> -->
 
 <p>
-<h2>📫 How to reach me through<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">
+<h2>📫 How to reach me through<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="15px"  height="35px" >
 </p></h2>
 <!-- Socials Links and Badges -->
 <p >
@@ -43,7 +43,7 @@ I'm a open source enthusiast. Love to learn from communities. Believe in power o
 </p>
 <br/><br/>
 <!-- Language and Tools -->
-<h2>Languages & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
+<h2>Languages & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="15px"  height="35px"> </h2>
 <p >
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"
   alt="c" height="40" style="vertical-align:top; margin:4px"/ >
@@ -88,6 +88,8 @@ I'm a open source enthusiast. Love to learn from communities. Believe in power o
 - [History of RedHat & Inside RedHat's Open Source Community](https://siddhantprateek.space/history-of-redhat-and-inside-redhats-open-source-community)
 - [Docker and How to dockerize React App](https://siddhantprateek.space/docker-and-how-to-dockerize-react-app)
 - [Apache SkyWalking and It's Monitoring UI](https://blog.goupaz.com/posts/post07/apache-skywalking-and-its-monitoring-ui/)
+- [What are the requirements required to run Medusa?](https://aviyel.com/post/3238/what-are-the-requirements-required-to-run-medusa)
+- [How to Deploy Docz in Netlify?](https://aviyel.com/post/2891/how-to-deploy-docz-in-netlify)
 
 | | |
 | -------- | -------- |
