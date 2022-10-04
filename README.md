@@ -67,16 +67,13 @@ I'm a open source enthusiast. Love to learn from communities. Believe in power o
  <h2>📖 I’m currently learning</h2>
 </p>
 <p>
-	<img src="https://img.icons8.com/color/100/000000/typescript.png"
-	height="48" style="vertical-align:top; margin:5px"/>
-	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-	  <img src="https://img.icons8.com/color/48/000000/golang.png"
+  <img src="https://img.icons8.com/color/48/000000/golang.png"
   alt="golang" height="40" style="vertical-align:top; margin:4px"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png"
   height="40" style="vertical-align:top; margin:4px"/>
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png"
   height="40" style="vertical-align:top; margin:4px"/>
-  <img src="https://img.icons8.com/color/48/000000/jenkins.png"
+  <img src="https://avatars.githubusercontent.com/u/7657900?s=280&v=4"
   height="40" style="vertical-align:top; margin:4px"/>
 </p>
 
