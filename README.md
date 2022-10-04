@@ -63,7 +63,7 @@ I'm a open source enthusiast. Love to learn from communities. Believe in power o
   	height="40" style="vertical-align:top; margin:4px"/>
 	<img src="https://img.icons8.com/ios-filled/50/000000/solidity.png"
   	height="40" style="vertical-align:top; margin:4px"/>
-	<img src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-ethereum-cryptocurrency-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"
+	<img src="https://img.icons8.com/color/48/000000/ethereum.png"
   	height="40" style="vertical-align:top; margin:4px"/>
 </p>
 
