@@ -3,9 +3,9 @@
 
 
 <p style="clear:both;">
-<h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"  height="35px"/>  Hi, I’m Siddhant </h1><img src="https://i.imgur.com/MnWH6L8.gif" align="left" height="300vh">
+<h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"  height="35px"/>  Hi, I’m Siddhant </h1><img src="https://i.imgur.com/MnWH6L8.gif" align="left" height="300vh" margin="20rem">
 
-I'm a open source enthusiast. Love to learn from communities. Believe in power of community. Love to share knowledge what I have learned. Apart from that, I'm more into cloud native and DevOps related work. Looking forward to collabrate. 🚀
+I'm a open source enthusiast. Love to learn from communities. Believe in power of community. Love to share knowledge what I have learned. Apart from that, I'm more into Blockchain, cloud native and DevOps related work. Looking forward to collabrate. 🚀
 </p>
 
 <!-- ![68889-deliverame-app](https://user-images.githubusercontent.com/43869046/126028403-244771ba-f18a-46a9-a557-bafc0d2bd313.gif) -->
@@ -43,43 +43,18 @@ I'm a open source enthusiast. Love to learn from communities. Believe in power o
 </p>
 <br/><br/>
 <!-- Language and Tools -->
-<h2>Languages & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px"  height="35px"> </h2>
-<p >
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"
-  alt="c" height="40" style="vertical-align:top; margin:4px"/ >
+<h2>Languages & Tools that i use...<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px"  height="35px"> </h2>
 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Js" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">	
-	<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
-	height="40" style="vertical-align:top; margin:4px"/>
-	<img src="https://img.icons8.com/plasticine/100/000000/bash.png"
-	height="46" style="vertical-align:top; margin:4px"/>
-	<img src="https://img.icons8.com/color/96/000000/linux--v1.png"
-	     height="40" style="vertical-align:top; margin:4px"/>
-	<img src="https://img.icons8.com/fluent/48/000000/docker.png"
-  	height="40" style="vertical-align:top; margin:4px"/>
-	<img src="https://img.icons8.com/ios-filled/50/000000/solidity.png"
-  	height="40" style="vertical-align:top; margin:4px"/>
-	<img src="https://img.icons8.com/color/48/000000/ethereum.png"
-  	height="40" style="vertical-align:top; margin:4px"/>
-</p>
+| |   |
+| -------- | -------- | 
+| **Programming Languages**     | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)     | 
+| **DevOps Tools**     | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)     | 
+| **Blockchain Tools** | ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)|
+|**Testing Tools** | ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)|
+| **Backend Framework & Tools** | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) |
+|  **Frontend Framework** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)| 
+| **Basic tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)|
 
-<p>
- <h2>📖 I’m currently learning</h2>
-</p>
-<p>
-  <img src="https://img.icons8.com/color/48/000000/golang.png"
-  alt="golang" height="40" style="vertical-align:top; margin:4px"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png"
-  height="40" style="vertical-align:top; margin:4px"/>
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png"
-  height="40" style="vertical-align:top; margin:4px"/>
-  <img src="https://avatars.githubusercontent.com/u/7657900?s=280&v=4"
-  height="40" style="vertical-align:top; margin:4px"/>
-</p>
 
 ### My Blogs
 
@@ -89,6 +64,7 @@ I'm a open source enthusiast. Love to learn from communities. Believe in power o
 - [Apache SkyWalking and It's Monitoring UI](https://blog.goupaz.com/posts/post07/apache-skywalking-and-its-monitoring-ui/)
 - [What are the requirements required to run Medusa?](https://aviyel.com/post/3238/what-are-the-requirements-required-to-run-medusa)
 - [How to Deploy Docz in Netlify?](https://aviyel.com/post/2891/how-to-deploy-docz-in-netlify)
+
 
 | | |
 | -------- | -------- |
