@@ -3,7 +3,7 @@
 
 
 <p style="clear:both;">
-<h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"  height="35px"/>  Hi, I’m Siddhant </h1><img src="https://i.imgur.com/MnWH6L8.gif" align="left" height="300vh" margin="20rem">
+<h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"  height="35px"/>  Hi, I’m Siddhant </h1><img src="https://github.com/siddhantprateek/siddhantprateek/blob/main/coder2.gif" align="left" height="400vh" margin="20rem">
 
 I'm a open source enthusiast. Love to learn from communities. Believe in power of community. Love to share knowledge what I have learned. Apart from that, I'm more into Blockchain, cloud native and DevOps related work. Looking forward to collabrate. 🚀
 </p>
