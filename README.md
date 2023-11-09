@@ -3,9 +3,9 @@
 
 
 <p style="clear:both;">
-<h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"  height="35px"/>  Hi, I’m Siddhant </h1><img src="https://github.com/siddhantprateek/siddhantprateek/blob/main/coder2.gif" align="left" height="400vh" margin="20rem">
+<h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"  height="35px"/> <a> Hi, I’m Siddhant </a> </h1><img src="https://github.com/siddhantprateek/siddhantprateek/blob/main/coder2.gif" align="left" height="400vh" margin="20rem">
 
-I'm a open source enthusiast. Love to learn from communities. Believe in power of community. Love to share knowledge what I have learned. Apart from that, I'm more into Blockchain, cloud native and DevOps related work. Looking forward to collabrate. 🚀
+Hi, I believe you just found your Engineering Team Member 😁. Love crafting cool stuff and helping out people. Let's build some cool stuff together. 🚀
 </p>
 
 <!-- ![68889-deliverame-app](https://user-images.githubusercontent.com/43869046/126028403-244771ba-f18a-46a9-a557-bafc0d2bd313.gif) -->
@@ -56,16 +56,16 @@ I'm a open source enthusiast. Love to learn from communities. Believe in power o
 | **Basic tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)|
 
 
-### My Blogs
+### Do you Love Reading, Checkout my Blogs
 
+- [Exploring API Architectural Styles: A Dive into SOAP, REST, GraphQL, gRPC, WebSocket, and Webhook 🚀](https://medium.com/@siddhantprateek/exploring-api-architectural-styles-a-dive-into-soap-rest-graphql-grpc-websocket-and-webhook-de740700e68d)
+- [All you need to know about Caching](https://medium.com/@siddhantprateek/all-you-need-to-know-about-caching-f22b566f0376)
 - [Helm Explained](https://medium.com/@siddhantprateek/helm-explained-d950d90c6136)
 - [All About Envoy Proxy](https://siddhantprateek.space/all-about-envoy-proxy)
-- [History of RedHat & Inside RedHat's Open Source Community](https://siddhantprateek.space/history-of-redhat-and-inside-redhats-open-source-community)
-- [Docker and How to dockerize React App](https://siddhantprateek.space/docker-and-how-to-dockerize-react-app)
 - [Apache SkyWalking and It's Monitoring UI](https://blog.goupaz.com/posts/post07/apache-skywalking-and-its-monitoring-ui/)
-- [What are the requirements required to run Medusa?](https://aviyel.com/post/3238/what-are-the-requirements-required-to-run-medusa)
-- [How to Deploy Docz in Netlify?](https://aviyel.com/post/2891/how-to-deploy-docz-in-netlify)
 
+
+### Cool Stats
 
 | | |
 | -------- | -------- |
@@ -80,10 +80,11 @@ I'm a open source enthusiast. Love to learn from communities. Believe in power o
 </div>
  -->
 <!-- Conritbution Graph -->
+<!-- 
 <details>
   <summary>Contribution Graph</summary>
 
 [![Siddhant Prateek's github activity graph](https://activity-graph.herokuapp.com/graph?username=siddhantprateek&theme=github)](https://github.com/siddhantprateek/github-readme-activity-graph)
 </details>
-
+ -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantprateek&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantprateek" /> </p>
