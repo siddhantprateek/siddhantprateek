@@ -8,6 +8,7 @@
 Hi, I believe you just found your Engineering Team Member 😁. Love crafting cool stuff and helping out people. Let's build some cool stuff together. 🚀
 </p>
 
+And I'm not afraid of someone who has used multiple stacks; I'm afraid of someone who has used the same stack multiple times.
 <!-- ![68889-deliverame-app](https://user-images.githubusercontent.com/43869046/126028403-244771ba-f18a-46a9-a557-bafc0d2bd313.gif) -->
 <!-- <img src="https://user-images.githubusercontent.com/43869046/126028403-244771ba-f18a-46a9-a557-bafc0d2bd313.gif" align="left" height="500vh"> -->
 
