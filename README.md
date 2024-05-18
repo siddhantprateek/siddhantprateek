@@ -7,7 +7,7 @@ Hi, I’m **Siddhant** 🤙, I believe you just found your Engineering Team Memb
 <!-- ![68889-deliverame-app](https://user-images.githubusercontent.com/43869046/126028403-244771ba-f18a-46a9-a557-bafc0d2bd313.gif) -->
 <!-- <img src="https://user-images.githubusercontent.com/43869046/126028403-244771ba-f18a-46a9-a557-bafc0d2bd313.gif" align="left" height="500vh"> -->
 
-### How to reach me through  📫
+### How to reach me 📫
 <!-- Socials Links and Badges -->
 * Let's connect professionally on [Linkedin](https://www.linkedin.com/in/siddhantprateek/)
 * Follow my random musings on [Twitter](https://twitter.com/siddhantprateek) 
