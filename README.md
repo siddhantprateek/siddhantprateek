@@ -9,14 +9,15 @@ Hi, I’m **Siddhant** 🤙, I believe you just found your Engineering Team Memb
 
 ### How to reach me through  📫
 <!-- Socials Links and Badges -->
-* [Linkedin](https://www.linkedin.com/in/siddhantprateek/)
-
+* Let's connect professionally on [Linkedin](https://www.linkedin.com/in/siddhantprateek/)
+* Follow my random musings on [Twitter](https://twitter.com/siddhantprateek) 
 
 ### Professional Experiences 
 
 
 <!-- Language and Tools -->
-<h2>Languages & Tools that i use...<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px"  height="35px"> </h2>
+#### Languages and Tools 
+Things that i use frequently
 
 | |   |
 | -------- | -------- | 
@@ -31,7 +32,7 @@ Hi, I’m **Siddhant** 🤙, I believe you just found your Engineering Team Memb
 
 #### Do you Love Reading, Checkout my Blogs 🔖
 
-Feel free to read my research and journal papers at [Google Scholar](https://scholar.google.co.in/citations?hl=en&user=vRqjpscAAAAJ)
+Feel free to read my research and journal papers at [Google Scholar](https://scholar.google.co.in/citations?hl=en&user=vRqjpscAAAAJ). You can even checkout my blogs here [Medium](https://medium.com/@siddhantprateek/).
 
 - [Exploring API Architectural Styles: A Dive into SOAP, REST, GraphQL, gRPC, WebSocket, and Webhook 🚀](https://medium.com/@siddhantprateek/exploring-api-architectural-styles-a-dive-into-soap-rest-graphql-grpc-websocket-and-webhook-de740700e68d)
 - [All you need to know about Caching](https://medium.com/@siddhantprateek/all-you-need-to-know-about-caching-f22b566f0376)
