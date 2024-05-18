@@ -1,48 +1,20 @@
-<!-- ![banner](https://i.imgur.com/Ww2nuXA.png) -->
 
+![Siddhant Group 5](https://github.com/siddhantprateek/siddhantprateek/assets/43869046/46838ac0-7bb8-4ea3-9c4a-6cdb0895435f)
 
+## About Me
 
-<p style="clear:both;">
-<h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"  height="35px"/> <a> Hi, I’m Siddhant </a> </h1><img src="https://github.com/siddhantprateek/siddhantprateek/blob/main/coder2.gif" align="left" height="400vh" margin="20rem">
-
-Hi, I believe you just found your Engineering Team Member 😁. Love crafting cool stuff and helping out people. Let's build some cool stuff together. 🚀
-</p>
-
-And I'm not afraid of someone who has used multiple stacks; I'm afraid of someone who has used the same stack multiple times.
+Hi, I’m **Siddhant** 🤙, I believe you just found your Engineering Team Member. Love crafting cool stuff and helping out people. Let's build some cool stuff together. And I'm not afraid of someone who has used multiple stacks; I'm afraid of someone who has used the same stack multiple times.
 <!-- ![68889-deliverame-app](https://user-images.githubusercontent.com/43869046/126028403-244771ba-f18a-46a9-a557-bafc0d2bd313.gif) -->
 <!-- <img src="https://user-images.githubusercontent.com/43869046/126028403-244771ba-f18a-46a9-a557-bafc0d2bd313.gif" align="left" height="500vh"> -->
 
-<p>
-<h2>📫 How to reach me through<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="35px"  height="35px" >
-</p></h2>
+### How to reach me through  📫
 <!-- Socials Links and Badges -->
-<p >
-	<a href="https://www.linkedin.com/in/siddhantprateek/">
-		<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-	</a>
-	<a href="https://twitter.com/siddhantprateek">
-		<img src="https://img.icons8.com/color/48/000000/twitter-circled--v5.png" 
-	 height="48" style="vertical-align:top; margin:4px"/>
-	</a>
-	<a href="https://www.facebook.com/siddhant.prateek.7/">
-		<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
-	</a>
-	<a href="https://medium.com/@siddhantprateek">
-		<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v2.png"
-	height="48" style="vertical-align:top; margin:4px"/>
-	</a>
-	<a href="https://devpost.com/siddhantprateek?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
-		<img src="https://img.icons8.com/color/48/000000/devpost.png"/>
-	</a>
-	<a href="https://dev.to/siddhantprateek">
-		<img src="https://img.icons8.com/windows/64/000000/dev.png"
-	height="48" style="vertical-align:top; margin:4px"/>
-	</a>
-	<a href="https://www.behance.net/siddhantprateek">
-		<img src="https://img.icons8.com/color/48/000000/behance.png"/>
-	</a>
-</p>
-<br/><br/>
+* [Linkedin](https://www.linkedin.com/in/siddhantprateek/)
+
+
+### Professional Experiences 
+
+
 <!-- Language and Tools -->
 <h2>Languages & Tools that i use...<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px"  height="35px"> </h2>
 
@@ -57,7 +29,9 @@ And I'm not afraid of someone who has used multiple stacks; I'm afraid of someon
 | **Basic tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)|
 
 
-### Do you Love Reading, Checkout my Blogs
+#### Do you Love Reading, Checkout my Blogs 🔖
+
+Feel free to read my research and journal papers at [Google Scholar](https://scholar.google.co.in/citations?hl=en&user=vRqjpscAAAAJ)
 
 - [Exploring API Architectural Styles: A Dive into SOAP, REST, GraphQL, gRPC, WebSocket, and Webhook 🚀](https://medium.com/@siddhantprateek/exploring-api-architectural-styles-a-dive-into-soap-rest-graphql-grpc-websocket-and-webhook-de740700e68d)
 - [All you need to know about Caching](https://medium.com/@siddhantprateek/all-you-need-to-know-about-caching-f22b566f0376)
@@ -65,27 +39,9 @@ And I'm not afraid of someone who has used multiple stacks; I'm afraid of someon
 - [All About Envoy Proxy](https://siddhantprateek.space/all-about-envoy-proxy)
 - [Apache SkyWalking and It's Monitoring UI](https://blog.goupaz.com/posts/post07/apache-skywalking-and-its-monitoring-ui/)
 
+#### Beyond my work 🌏
 
-### Cool Stats
-
-| | |
-| -------- | -------- |
-|<img width="100%" src="https://github-readme-stats.vercel.app/api?username=siddhantprateek&show_icons=true&theme=nord" /> | <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantprateek&theme=nord" /> |
 
 ---
 
-<!-- <div align="center">
-   <a href="https://github.com/siddhantprateek">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantprateek&theme=vue-dark&hide_langs_below=1" />
-   </a>
-</div>
- -->
-<!-- Conritbution Graph -->
-<!-- 
-<details>
-  <summary>Contribution Graph</summary>
-
-[![Siddhant Prateek's github activity graph](https://activity-graph.herokuapp.com/graph?username=siddhantprateek&theme=github)](https://github.com/siddhantprateek/github-readme-activity-graph)
-</details>
- -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantprateek&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantprateek" /> </p>
