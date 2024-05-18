@@ -28,7 +28,7 @@ I'm rather competent, but I wouldn't call myself an expert in that area.
 <!-- Language and Tools -->
 ### Languages and Tools 🛠️
 
-Languages and tools i know, the list is quiet long. I ran of out of skills on Linkedin. You need check my resume for that.
+Languages and tools i know, the list is quite long. I ran of out of skills on Linkedin. You need check my resume for that.
 
 
 #### Do you Love Reading, Checkout my Blogs 🔖
