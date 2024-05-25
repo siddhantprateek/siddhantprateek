@@ -17,7 +17,9 @@ Hi, I’m **Siddhant** 🤙, I believe you just found your Engineering Team Memb
 Curr: MLOps / DevOps Engineer at [Ai Planet](https://github.com/aiplanethub)
 
 My professional journey I started my coding career by learning Frontend, mostly React, but I was not limited to it. I can also work with Next. 
-I'm rather competent, but I wouldn't call myself an expert in that area.
+I'm rather competent, but I wouldn't call myself an expert in that area. 
+
+Though my work primarily highlights my backend expertise. However, I prefer to be recognized as a **generalist** who is equally skilled in frontend development and various other stacks, making me a versatile and well-rounded engineer.
 
 **On a daily basis,**
 1. I deal with REST/gRPC/Message Brokers.
