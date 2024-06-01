@@ -41,6 +41,7 @@ Languages and tools i know, the list is quite long. I ran of out of skills on Li
 
 Feel free to read my research and journal papers at [Google Scholar](https://scholar.google.co.in/citations?hl=en&user=vRqjpscAAAAJ). You can even checkout my blogs here [Medium](https://medium.com/@siddhantprateek/).
 
+- [Self-hosted MongoDB Replica Set with Authentication and TLS/SSL on CIVO Cloud](https://medium.com/@siddhantprateek/setting-up-a-mongodb-replica-set-with-authentication-and-tls-ssl-on-civo-cloud-202dca66ed5d)
 - [Istio Explained](https://medium.com/@siddhantprateek/istio-a-step-by-step-guide-to-setting-up-istio-argocd-on-civo-cloud-and-resolving-dns-on-2eeab43a14bd)
 - [Exploring API Architectural Styles: A Dive into SOAP, REST, GraphQL, gRPC, WebSocket, and Webhook 🚀](https://medium.com/@siddhantprateek/exploring-api-architectural-styles-a-dive-into-soap-rest-graphql-grpc-websocket-and-webhook-de740700e68d)
 - [All you need to know about Caching](https://medium.com/@siddhantprateek/all-you-need-to-know-about-caching-f22b566f0376)
